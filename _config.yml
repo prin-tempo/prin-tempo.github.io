@@ -33,6 +33,13 @@ remote_theme: sylhare/Type-on-Strap
 plugins:
   - jekyll-feed
 
+# Theme customization
+header_text: " "
+header_feature_image: assets/header.jpg
+header_feature_image_responsive: false
+footer_text: "This project has received funding from the European Union’s \"Next Generation EU\" research and innovation programme under CUP XXXXXXXXX."
+# Inspiration for the footer: https://nephele-project.eu/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
