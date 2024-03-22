@@ -11,3 +11,4 @@ hide: true                           # Prevent the page title to appear in the n
 tags: [hemophilia, european project, wearables]
 ---
 
+<img src="assets/images/banner_white.png" alt="" style="">
