@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Prima riunione in presenza"
+date:   2024-01-25 15:31:58 +0100
+categories: jekyll update
+---
+Il giorno 25 Gennaio, presso la Fondazione Angelo Bianchi Bonomi a Milano, si è tenuta la prima riunione in presenza del progetto TEMPO.
+
+Erano presenti tutti i partner, e si è discusso di come organizzare al meglio le fasi iniziali del progetto.
+
+![25-01-24-meeting-presenza](/_images/prin-tempo-meeting-2024-01-25.jpeg)
