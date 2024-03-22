@@ -35,7 +35,7 @@ plugins:
 
 # Theme customization
 header_text: " "
-header_feature_image: assets/header.jpg
+header_feature_image: assets/images/header.jpg
 header_feature_image_responsive: false
 footer_text: "This project has received funding from the European Union’s \"Next Generation EU\" research and innovation programme under CUP XXXXXXXXX."
 # Inspiration for the footer: https://nephele-project.eu/
