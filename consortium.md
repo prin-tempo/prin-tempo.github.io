@@ -34,7 +34,7 @@ position: 2
     }
 </style>
 
-<div class="university-logos">
+<div class="university-logos" style="align:center">
     <img class="uni-logos" id="uni-logos" src="/assets/images/consortium.png">
 </div>
 
