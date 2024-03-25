@@ -35,26 +35,23 @@ position: 2
 </style>
 
 <div class="university-logos">
-    <img class="uni-logos" id="uni-logos" src="/assets/images/university_logos.jpg">
+    <img class="uni-logos" id="uni-logos" src="/assets/images/consortium.png">
 </div>
 
 <div class="research-units">
     <h3>Research Units</h3>
-    <img src="assets/images/UNIMI.png">
     <h4>University of Milan</h4>
     <ul>
         <li>Roberta Gualtierotti (PI)</li>
         <li>Sergio Mascetti</li>
     </ul>
 
-    <img src="assets/images/UNIMORE.png">
     <h4>University of Modena and Reggio Emilia </h4>
     <ul>
         <li>Luca Bedogni (co-PI)</li>
         <li>Francesco Franco</li>
     </ul>
 
-    <img src="assets/images/ISTC.png">
     <h4>CNR</h4>
     <ul>
         <li>Francesco Poggi</li>
