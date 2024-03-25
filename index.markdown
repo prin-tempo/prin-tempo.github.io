@@ -12,6 +12,8 @@ tags: [hemophilia, european project, wearables]
 ---
 
 <img src="assets/images/banner_white.png" alt="" style="">
+<img src="assets/images/consortium.png">
+
 
 Hemophilia A and B are rare bleeding disorders due to coagulation factor VIII (FVIII) and FIX deficiency, respectively. Repeated joint
 bleeding (hemarthrosis) leads to chronic arthropathy, disability, and early prosthetic surgery. Indeed, bleeding can be prevented by
