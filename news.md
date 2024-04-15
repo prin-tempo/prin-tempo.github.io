@@ -45,6 +45,3 @@ On the 25th of January 2024, the first in person meeting of the TEMPO project to
 
 <h3>23/11/2023 - Kickoff meeting</h3>
 On the 23rd of November 2023 the TEMPO kickoff meeting took place remotely. All the partners participated. The main point to discuss has been the involvement of the ethical committee.
-
-  
-</div>
