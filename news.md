@@ -38,6 +38,9 @@ position: 3
     <img class="uni-logos" id="uni-logos" src="/assets/images/consortium.png">
 </div>
 
+<h3>30/05/2024 - Second in person meeting</h3>
+On the 30th of May 2024, the second in person meeting of the TEMPO project took place at the CNR in Bologna. All the partners participated, and the discussion has been focused on the clinical protocol to advance the study. 
+
 <h3>25/01/2024 - First in person meeting</h3>
 On the 25th of January 2024, the first in person meeting of the TEMPO project took place at the Fondazione Angelo Bianchi Bonomi in Milan. All the partners participated, and the discussion has been focused on the first steps and achievements of the TEMPO project.
 
