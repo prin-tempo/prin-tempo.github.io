@@ -41,9 +41,9 @@ position: 3
 <h3>30/05/2024 - Second in person meeting</h3>
 On the 30th of May 2024, the second in person meeting of the TEMPO project took place at the CNR in Bologna. All the partners participated, and the discussion has been focused on the clinical protocol to advance the study. 
 
-<img src="/assets/images/TEMPO-30-05-2024-2.jpeg" width="30%" style="position: relative; float: left;">
-<img src="/assets/images/TEMPO-30-05-2024-1.jpeg" width="30%" style="position: relative; float: left;">
-<img src="/assets/images/TEMPO-30-05-2024-3.jpeg" width="30%" style="position: relative; float: left;">
+<img src="/assets/images/TEMPO-30-05-2024-2.jpeg">
+<img src="/assets/images/TEMPO-30-05-2024-1.jpeg">
+<img src="/assets/images/TEMPO-30-05-2024-3.jpeg">
 
 
 <h3>25/01/2024 - First in person meeting</h3>
