@@ -34,9 +34,11 @@ position: 2
     }
 </style>
 
-<div class="university-logos">
-    <img class="uni-logos" id="uni-logos" src="/assets/images/consortium.png">
-</div>
+<img src="assets/images/logo_tempo.png" alt="" style="">
+
+
+<img class="uni-logos" id="uni-logos" src="/assets/images/consortium.png">
+
 
 <div class="research-units">
     <h3>Research Units</h3>

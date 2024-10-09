@@ -4,7 +4,7 @@
 layout: page
 #title: "" 
 #subtitle: " "   
-feature-img: "/assets/images/logo_tempo.png" 
+feature-img: "/assets/images/header.jpg" 
 #permalink: /my_permalink/           # Set a permalink your your page
 hide: true                           # Prevent the page title to appear in the navbar
 #icon: "fa-search"                   # Will Display only the fontawesome icon (here: fa-search) and not the title
@@ -12,6 +12,7 @@ tags: [hemophilia, european project, wearables]
 ---
 
 <img src="assets/images/banner_white.png" alt="" style="">
+<img src="assets/images/logo_tempo.png" alt="" style="">
 <img src="assets/images/consortium.png">
 
 Hemophilia A and B are rare bleeding disorders due to coagulation factor VIII (FVIII) and FIX deficiency, respectively. Repeated joint
