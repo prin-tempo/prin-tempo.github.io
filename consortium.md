@@ -34,7 +34,7 @@ position: 2
     }
 </style>
 
-<img src="assets/images/logo_tempo.png" alt="" style="">
+<img class="uni-logos" src="assets/images/logo_tempo.png" alt="" style="">
 
 
 <img class="uni-logos" id="uni-logos" src="/assets/images/consortium.png">
