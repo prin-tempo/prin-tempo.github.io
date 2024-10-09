@@ -11,8 +11,16 @@ hide: true                           # Prevent the page title to appear in the n
 tags: [hemophilia, european project, wearables]
 ---
 
+<style type="text/css">
+    .university-logos {
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }   
+</style>
+
 <img src="assets/images/banner_white.png" alt="" style="">
-<img src="assets/images/logo_tempo.png" alt="" style="">
+<img src="assets/images/logo_tempo.png" alt="" style="university-logos">
 <img src="assets/images/consortium.png">
 
 Hemophilia A and B are rare bleeding disorders due to coagulation factor VIII (FVIII) and FIX deficiency, respectively. Repeated joint
