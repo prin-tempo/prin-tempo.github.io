@@ -16,6 +16,7 @@ tags: [hemophilia, european project, wearables]
         height: auto;
         margin-left: auto;
         margin-right: auto;
+        display: block;
     }   
 </style>
 
