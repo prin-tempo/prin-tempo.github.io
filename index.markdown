@@ -4,7 +4,7 @@
 layout: page
 #title: "" 
 #subtitle: " "   
-feature-img: "/assets/images/header.jpg" 
+feature-img: "/assets/images/logo_tempo.png" 
 #permalink: /my_permalink/           # Set a permalink your your page
 hide: true                           # Prevent the page title to appear in the navbar
 #icon: "fa-search"                   # Will Display only the fontawesome icon (here: fa-search) and not the title
