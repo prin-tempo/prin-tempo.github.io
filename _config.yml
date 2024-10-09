@@ -37,7 +37,7 @@ plugins:
 header_text: " "
 header_feature_image: assets/images/logo_tempo.png
 header_feature_image_responsive: true
-footer_text: "This project has received funding from the European Union’s \"Next Generation EU\" research and innovation programme under CUP XXXXXXXXX."
+footer_text: "This project has received funding from the European Union’s \"Next Generation EU\" research and innovation programme under CUP G53D23005190006."
 # Inspiration for the footer: https://nephele-project.eu/
 
 # Exclude from processing.
