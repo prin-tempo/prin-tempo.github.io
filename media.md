@@ -5,6 +5,9 @@ permalink: /dissemination/
 position: 4
 ---
 
+<h3>10/02/2025 - Medico e Paziente</h3>
+The TEMPO project has been featured in the Italian magazine "Il Medico e il Paziente", through a video interview available at [this link](https://medicoepaziente.it/2025/emofilia-nuovi-strumenti-digitali-a-supporto-dei-pazienti/).
+
 <h3>26/06/2024 - SMS 2024</h3>
 The research group has published a paper in the SMS workshop, as part of the IEEE conference. The paper aims to find the best possible location for the wearable devices. 
 
