@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Kickoff meeting"
-date:   2023-11-23 15:31:58 +0100
-categories: jekyll update
----
-Il giorno 23 Novembre si è tenuto il kickoff meeting del progetto TEMPO, in modalità a distanza. Erano presenti tutti i partner del progetto, si è discusso della necessità del coinvolgimento del comitato etico, e ci si è dati appuntamento per la prima riunione in presenza il 25 Gennaio.
