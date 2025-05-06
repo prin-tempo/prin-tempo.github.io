@@ -97,19 +97,15 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
 
+# PAGINATION
+paginate: 5
+paginate_path: "/blog/page:num"
 
+# PORTFOLIO
 collections:
-  news:
-    defaults:
-      layout: post
+  portfolio:
     output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-  group:
-    output: true
-    permaling: /group/:path/
+    permalink: /:collection/:name
 
 announcements:
   enabled: true
@@ -134,49 +130,14 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages"]
-exclude:
-  - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
-  - FAQ.md
-  - Gemfile
-  - Gemfile.lock
-  - INSTALL.md
-  - LICENSE
-  - lighthouse_results/
-  - package.json
-  - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
-  - README.md
-  - readme_preview/
-  - vendor
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
+
 keep_files:
   - CNAME
   - .nojekyll
 
-# Plug-ins
-plugins:
-  - jekyll-archives
-  - jekyll-email-protect
-  - jekyll-feed
-  - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
-  - jekyll-link-attributes
-  - jekyll-minifier
-  - jekyll-paginate-v2
-  - jekyll-regex-replace
-  - jekyll/scholar
-  - jekyll-sitemap
-  - jekyll-tabs
-  - jekyll-toc
-  - jekyll-twitter-plugin
-  - jemoji
-  - jekyll-remote-theme
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+
 
 # Sitemap settings
 defaults:
