@@ -4,19 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hemophilia A and B are rare bleeding disorders due to coagulation factor VIII (FVIII) and FIX deficiency, respectively. Repeated joint
-bleeding (hemarthrosis) leads to chronic arthropathy, disability, and early prosthetic surgery. Indeed, bleeding can be prevented by
-regular prophylactic treatment, although adherence is often suboptimal, in particular in young adults. Annual bleeding rate (ABR)
-has been traditionally used as an outcome measure of treatment efficacy, although it is a patient-reported outcome and there is
-evidence that patients often report as bleeding events also joint pain episodes due to chronic arthropathy. In addition, bleeding may
-even occur in asymptomatic joints. Therefore, a definite diagnosis of hemarthrosis is pivotal and a personalized management is
-warranted to avoid overtreatment or undertreatment. To date, a definite diagnosis of hemarthrosis can be confirmed by ultrasound
-or arthrocentesis at the Hemophilia Treatment Center (HTC).
+Hemophilia A and B are rare bleeding disorders due to coagulation factor VIII (FVIII) and FIX deficiency, respectively. Repeated joint bleeding (hemarthrosis) leads to chronic arthropathy, disability, and early prosthetic surgery. Indeed, bleeding can be prevented by
+regular prophylactic treatment, although adherence is often suboptimal, in particular in young adults. Annual bleeding rate (ABR) has been traditionally used as an outcome measure of treatment efficacy, although it is a patient-reported outcome and there is
+evidence that patients often report as bleeding events also joint pain episodes due to chronic arthropathy. In addition, bleeding may even occur in asymptomatic joints. Therefore, a definite diagnosis of hemarthrosis is pivotal and a personalized management is
+warranted to avoid overtreatment or undertreatment. To date, a definite diagnosis of hemarthrosis can be confirmed by ultrasound or arthrocentesis at the Hemophilia Treatment Center (HTC).
 
-The World Federation of Hemophilia acknowledges the importance of software-based diaries for treatment adherence and
-communication with the HTC. Electronic diaries may increase the quantity of information provided by the patients, while improving
-the data quality. The huge amount of data collected, properly integrated and made available through analytical and visual
-dashboards, may support clinicians in personalizing treatment.
+The World Federation of Hemophilia acknowledges the importance of software-based diaries for treatment adherence and communication with the HTC. Electronic diaries may increase the quantity of information provided by the patients, while improving
+the data quality. The huge amount of data collected, properly integrated and made available through analytical and visual dashboards, may support clinicians in personalizing treatment.
 
 On this background, we will develop a home-based integrated system for patient adherence to treatment by active assistance with
 reminders and collection of data on spontaneous and post-traumatic bleeding events, quality of life, productivity and pain through
