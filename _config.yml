@@ -7,7 +7,8 @@ baseurl:  # the subpath of your site, e.g. /blog
 url: "https://prin-tempo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: sylhare/Type-on-Strap
+#remote_theme: sylhare/Type-on-Strap
+remote-theme: "alshedivat/al-folio" # the theme name, see
 
 # Theme customization
 header_text: " "
