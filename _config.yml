@@ -8,8 +8,6 @@ url: "https://prin-tempo.github.io" # the base hostname & protocol for your site
 
 # Build settings
 remote_theme: sylhare/Type-on-Strap
-plugins:
-  - jekyll-feed
 
 # Theme customization
 header_text: " "
