@@ -78,7 +78,7 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
       - name: ImageMagick
-        run: sudo apt-get install imagemagick 
+        run: sudo apt update && sudo apt-get install imagemagick 
       - name: Install and Build 🔧
         run: |
           gem install jekyll-remote-theme
