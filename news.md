@@ -40,7 +40,7 @@ position: 3
 
 <h3>15/02/2025 - Centro Emofilia e trombosi Angelo Bianchi Bonomi Website</h3>
 The TEMPO project has been advertised on the Fondazione Angelo Bianchi Bonomi website. Full article (in Italian) available [here](https://cetbianchibonomi.it/progetto-tempo-nuovi-strumenti-digitali-a-supporto-dei-pazienti-con-emofilia/)
-<img src="assets/images/TEMPO-15-02-2025.png">
+<img src="/assets/images/TEMPO-15-02-2025.png">
 
 <h3>12/02/2025 - Algosflogos Website</h3>
 The TEMPO project has been advertised on the Algosflogos website. Full article (in Italian) available [here](https://algosflogos.it/2025/emofilia-nuovi-strumenti-per-la-prevenzione-dei-danni-alle-articolazioni/)
