@@ -56,6 +56,9 @@ On the 30th of May 2024, the second in person meeting of the TEMPO project took 
 <img src="/assets/images/TEMPO-30-05-2024-1.jpeg">
 <img src="/assets/images/TEMPO-30-05-2024-3.jpeg">
 
+<h3>20/02/2024</h3>
+The Linkedin page of the TEMPO project has been created at [this link](https://www.linkedin.com/groups/9897299/).
+
 
 <h3>25/01/2024 - First in person meeting</h3>
 On the 25th of January 2024, the first in person meeting of the TEMPO project took place at the Fondazione Angelo Bianchi Bonomi in Milan. All the partners participated, and the discussion has been focused on the first steps and achievements of the TEMPO project.
